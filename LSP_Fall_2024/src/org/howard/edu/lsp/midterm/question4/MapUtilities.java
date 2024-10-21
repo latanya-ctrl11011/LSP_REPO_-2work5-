@@ -14,7 +14,12 @@ public class MapUtilities {
      * @param map2 the second HashMap
      * @return the number of common key/value pairs
      */
+<<<<<<< HEAD
 	// used chat to assist with javadocs and used java documentation on website for implementing hashmaps
+=======
+  
+	// used chat to assist with javadocs and used java documentation on java website for implementing hashmaps
+>>>>>>> refs/remotes/origin/main
 	
     public static int commonKeyValuePairs(
             HashMap<String, String> map1,

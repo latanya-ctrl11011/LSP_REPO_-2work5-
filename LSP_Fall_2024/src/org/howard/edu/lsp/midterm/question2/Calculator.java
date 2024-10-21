@@ -5,6 +5,10 @@ package org.howard.edu.lsp.midterm.question2;
  */
 
 //utilized chatgpt to help create javadocs for clear documentation
+<<<<<<< HEAD
+=======
+
+>>>>>>> refs/remotes/origin/main
 public class Calculator {
 
     /**
