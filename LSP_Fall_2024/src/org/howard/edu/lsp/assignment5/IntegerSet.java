@@ -8,7 +8,7 @@ import java.util.List;
  * It implements basic set operations like adding, removing, checking elements, 
  * and performing set operations like union, intersection, difference, and complement.
  * 
- * @author Latanya
+ *
  */
 
 public class IntegerSet  {
