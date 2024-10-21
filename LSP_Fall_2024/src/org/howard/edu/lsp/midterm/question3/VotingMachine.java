@@ -3,6 +3,8 @@ package org.howard.edu.lsp.midterm.question3;
 import java.util.HashMap;
 import java.util.Map;
 
+// used chatgpt to assist with javadoc and code structure
+
 /**
  * A simplified voting machine.
  */
