@@ -20,6 +20,7 @@ public class Book {
      */
     
     //used chatgpt to assist in creating javadocs for proper documentation and better code structure
+    
     public Book(String title, String author, String ISBN, int yearPublished) {
         this.title = title;
         this.author = author;
